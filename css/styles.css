@@ -64,9 +64,9 @@
 }
 
 #bio-img{
-    width: 150px;
-    height: 150px;
-   /* border-radius: 50%; */
+    width: 175px;
+    height: 175px;
+   border-radius: 30%;
     margin-bottom: 5px;
 }
 
